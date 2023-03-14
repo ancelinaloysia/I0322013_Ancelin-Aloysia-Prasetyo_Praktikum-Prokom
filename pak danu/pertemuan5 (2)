@@ -1,0 +1,9 @@
+kelas =["Ali", "Caca", "Dinda", "Alya", "Hanum"]
+print("====")
+
+for i in range(0,len(kelas)):
+    print("nama mahasiswa ke ", i+1, " adalah = ", kelas[i])
+
+print("===")
+
+kelas.append
